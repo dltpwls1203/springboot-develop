@@ -16,3 +16,7 @@ spring:
   h2: # 2. H2 콘솔 활성화
     console:
       enabled: true
+
+jwt :
+  issuer : dltpwls1203@gmail.com
+  secret_key : study-springboot
