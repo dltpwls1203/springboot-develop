@@ -1,3 +1,4 @@
+/*
 package me.sejin.springbootdeveloper.config;
 
 import lombok.RequiredArgsConstructor;
@@ -64,4 +65,6 @@ public class WebSecurityConfig {
     public BCryptPasswordEncoder bCryptPasswordEncoder() {
         return new BCryptPasswordEncoder();
     }
-}
+
+*/
+
